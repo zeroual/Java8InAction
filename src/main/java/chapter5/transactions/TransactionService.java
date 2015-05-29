@@ -1,4 +1,4 @@
-package chapter5;
+package chapter5.transactions;
 
 import java.util.Arrays;
 import java.util.List;

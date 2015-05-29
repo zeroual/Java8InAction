@@ -1,8 +1,8 @@
 package test.java.chapter5;
 
-import chapter5.Trader;
-import chapter5.Transaction;
-import chapter5.TransactionService;
+import chapter5.transactions.Trader;
+import chapter5.transactions.Transaction;
+import chapter5.transactions.TransactionService;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
